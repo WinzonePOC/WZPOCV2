@@ -17,5 +17,6 @@ private class HelloWorldTest {
         Employee_Master__c emp = new Employee_Master__c(Name='Test',Address__c='Test');
         insert emp;
         EmpMasterReport e = new EmpMasterReport();
+    }
     
 }
