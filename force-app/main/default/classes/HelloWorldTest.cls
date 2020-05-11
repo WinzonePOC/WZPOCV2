@@ -7,7 +7,7 @@ private class HelloWorldTest {
     }
     @isTest 
     static void Contact() {
-        Contact c1 = new Contact(Firstname='Test',LastName='Test',Email='test1@gmail.com');
+        Contact c1 = new Contact(Firstname='Test',LastName='Test',Email='test2@gmail.com');
         Insert c1;
         ContactAura.get10COntacts();
     }
