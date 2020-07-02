@@ -2,7 +2,7 @@
 private class HelloWorldTest {
     @isTest static void hello() {
         HelloWorld hello_world = new HelloWorld();
-        System.debug('Test');
+        System.debug('POC');
         String result = hello_world.hello();
     }
     @isTest 
