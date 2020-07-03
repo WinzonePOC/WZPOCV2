@@ -5,7 +5,7 @@ private class HelloWorldTest {
         System.debug('POC');
         String result = hello_world.hello();
     }
-    @isTest 
+    /*@isTest 
     static void Contact() {
         Contact c1 = new Contact(Firstname='Test',LastName='Test',Email='test@gmail.com');
         Insert c1;
@@ -16,5 +16,5 @@ private class HelloWorldTest {
         Employee_Master__c emp = new Employee_Master__c(Name='Test',Address__c='Test');
         insert emp;
         EmpMasterReport e = new EmpMasterReport();
-    }
+    }*/
 }
