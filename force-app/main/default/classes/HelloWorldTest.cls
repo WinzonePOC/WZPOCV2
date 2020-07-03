@@ -2,7 +2,7 @@
 private class HelloWorldTest {
     @isTest static void hello() {
         HelloWorld hello_world = new HelloWorld();
-        System.debug('Hello World Pipeline POC Check');
+        System.debug('Hello World feature1 push Check');
         String result = hello_world.hello();
     }
     /*@isTest 
