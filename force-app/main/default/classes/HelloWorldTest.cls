@@ -2,7 +2,7 @@
 private class HelloWorldTest {
     @isTest static void hello() {
         HelloWorld hello_world = new HelloWorld();
-        System.debug('Hello World feature1 github Check Amitava Changes 10');
+        System.debug('Hello World feature1 github Check');
         String result = hello_world.hello();
     }
     /*@isTest 
