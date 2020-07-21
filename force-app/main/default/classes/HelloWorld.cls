@@ -1,5 +1,5 @@
 global class HelloWorld {
     public String hello() {
-        return 'Hello World pipeline2!';
+        return 'Hello World pipeline3!';
     }
 }
